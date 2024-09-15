@@ -12,7 +12,7 @@ prev: docs/t3-2024/
 - Alex to handle the SRC election coverage
 - Monday week 3, anyone running for SRC gets yeeted
 - Coordinator interim secret ballot ranked prefer
-- Need to publish the article on elections transparency stuff
+- Need to publish the article on elections transparency stuffaaa
 - Student media conference
 - NUS Disability and ethno cultural conference
 - We still need money, need to do fundraising and grants
